@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "rpi.h": "c",
+        "rpi-thread.h": "c",
+        "gpio.h": "c",
+        "deuque.h": "c",
+        "rpi-interrupts.h": "c",
+        "timer-interrupt.h": "c",
+        "uart.h": "c",
+        "platform.h": "c",
+        "timer.h": "c",
+        "random": "c"
+    }
+}
